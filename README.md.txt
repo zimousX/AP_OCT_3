@@ -12,3 +12,5 @@ change added in dazzling_feature to provoke conflit.
 change added in dazzling_feature to provoke conflit.
 
 >>>>>>> Stashed changes
+
+Change made as Collaborator.
